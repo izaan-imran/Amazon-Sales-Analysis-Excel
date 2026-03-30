@@ -29,7 +29,7 @@ This project presents a comprehensive analysis of Amazon's sales data for the ye
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](images/dashboard_main.jpg) 
+![Dashboard Screenshot](images/Dashoard.jpg) 
 
 ---
 
