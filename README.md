@@ -1,40 +1,46 @@
-#🖥 Amazon-Sales-Analysis-Excel
-Interactive Amazon Sales Dashboard created using Microsoft Excel.
+# 📊 Amazon Sales Performance Dashboard 2024
 
-📝 Project Overview
-This project presents a comprehensive analysis of Amazon's sales data for the year 2024. The objective was to transform raw sales records into an interactive, visual decision-making tool. The dashboard tracks key performance indicators (KPIs), regional sales distribution, and product-wise performance across India.
+## 📝 Project Overview
+This project presents a comprehensive analysis of Amazon's sales data for the year 2024. The objective was to transform raw sales records into an interactive, visual decision-making tool.
 
-🚀 Key Features & Highlights
-KPI Management: Developed real-time tracking for Total Sales (₹10.2M), Units Sold (33.8K), and City Expansion (23 Cities) vs. established targets.
+---
 
-Regional Analytics: Integrated a State-wise Sales Map and City-wise Line Trends to identify high-performing clusters like Maharashtra and West Bengal.
+## 🚀 Key Features & Highlights
+* **KPI Management:** Real-time tracking for **Total Sales (₹10.2M)**, **Units Sold (33.8K)**, and **City Expansion (23 Cities)**.
+* **Regional Analytics:** Integrated a **State-wise Sales Map** to identify high-performing clusters.
+* **Inventory Insights:** Utilized a **Funnel Visualization** to rank product performance.
+* **Target vs. Actual:** Implemented **Donut Charts** to visualize achievement percentages.
 
-Inventory Insights: Utilized a Funnel Visualization to rank product performance, identifying 'Nestle Smarties Pop-Up' as the top contributor (5,267 units).
+---
 
-Target vs. Actual: Implemented Donut Charts to visualize achievement percentages (81% for Sales, 92% for Units) for quick executive reviews.
+## 🛠️ Technical Stack
+* **Tool:** Microsoft Excel (Advanced)
+* **Data Processing:** Power Query for data cleaning and transformation.
+* **Analysis:** Pivot Tables & Complex Formulas for metric calculation.
+* **Visualization:** Custom Charting, Slicers, and Conditional Formatting.
 
-🛠️ Technical Stack
-Tool: Microsoft Excel (Advanced)
+---
 
-Data Processing: Power Query for data cleaning and transformation.
+## 📁 Project Structure
+* **Sales Data:** Contains the raw transactional records (Date, Sales Rep, Product, Price, Units, etc.).
+* **Final Working:** The analytical engine where calculations were performed.
+* **Dashboard:** The final interactive user interface.
 
-Analysis: Pivot Tables & Complex Formulas for metric calculation.
+---
 
-Visualization: Custom Charting, Slicers (for interactivity), and Conditional Formatting.
+## 📸 Dashboard Preview
+![Dashboard Screenshot](images/dashboard_main.jpg) 
 
-📁 Project Structure
-Sales Data: Contains the raw transactional records (Date, Sales Rep, Product, Price, Units, etc.).
+---
 
-Final Working: The analytical engine where calculations and data modeling were performed.
+## 📈 Business Insights Derived
+1. **Sales Gap:** Currently at **81% of the target**, indicating a 19% gap that requires strategic intervention.
+2. **Product Leader:** Nestle brands dominate the volume, specifically the **'Smarties'** and **'Fab'** categories.
+3. **Geographic Focus:** North and West regions show consistent stability, while **Delhi** shows sharp peaks.
 
-Dashboard: The final interactive user interface.
+---
 
-📸 Dashboard Preview
-(Note: Replace the path above with your actual image file name inside your 'images' folder)
-
-📈 Business Insights Derived
-Sales Gap: Currently at 81% of the target, indicating a 19% gap that requires strategic intervention in underperforming regions.
-
-Product Leader: Nestle brands dominate the volume, specifically the 'Smarties' and 'Fab' categories.
-
-Geographic Focus: North and West regions show consistent stability, while certain cities like Delhi show sharp peaks in sales trends.
+## ⚙️ How to Explore
+1. Clone the repository or download the `.csv` file.
+2. Open the file in **Microsoft Excel 2021 or Office 365**.
+3. Navigate to the `Dashboard` tab to interact with the data.
