@@ -28,11 +28,6 @@ This project presents a comprehensive analysis of Amazon's sales data for the ye
 
 ---
 
-## 📸 Dashboard Preview
-![Dashboard Screenshot](images/Dashoard.jpg) 
-
----
-
 ## 📈 Business Insights Derived
 1. **Sales Gap:** Currently at **81% of the target**, indicating a 19% gap that requires strategic intervention.
 2. **Product Leader:** Nestle brands dominate the volume, specifically the **'Smarties'** and **'Fab'** categories.
